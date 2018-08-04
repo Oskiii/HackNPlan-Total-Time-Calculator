@@ -3,13 +3,15 @@ Script for calculating the total work time everyone's done in a HackNPlan projec
 
 
 Example output:
-```HackNPlan hours calculator
+```
+HackNPlan hours calculator
 ---------------
 22.7 hours done by oski
 5.0 hours done by Lawri
 66.6 hours done by maxsamarin
 1.5 hours done by miikakan
-1.0 hours done by Jukki```
+1.0 hours done by Jukki
+```
 
 
 ## Usage
